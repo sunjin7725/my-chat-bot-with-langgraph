@@ -1,0 +1,9 @@
+[[pages]]
+path = "app_pages/home.py"
+name = "Home"
+icon = "🏠"
+
+[[pages]]
+path = "app_pages/simple_chat.py"
+name = "Simple Chat"
+icon = "🦜"
